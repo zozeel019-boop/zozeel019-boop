@@ -1,88 +1,79 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=210&section=header&text=Moataz&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=60&descSize=18" width="100%" alt="Profile banner" />
+</div>
 
-# 👋 أهلاً بك، أنا Moataz
-
-### Frontend Developer • UI/UX Designer • Creative Coder
-
-<p>
+<div align="center">
   <a href="https://github.com/zozeel019-boop">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=مرحباً+بك+في+ملفي+الشخصي+%F0%9F%91%8B;أحوّل+الأفكار+إلى+تجارب+ويب+جميلة;Frontend+Developer+%7C+UI%2FUX+Designer;أتعلم+وأبني+وأتطور+كل+يوم+%F0%9F%9A%80" alt="Typing animation" />
   </a>
-  <a href="https://github.com/zozeel019-boop?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=أحوّل+الأفكار+إلى+واجهات+جميلة;أبني+تجارب+ويب+سريعة+وعصرية;أتعلم+شيئاً+جديداً+كل+يوم" alt="Typing animation" />
-
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=zozeel019-boop&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ---
 
-## ✨ نبذة عني
+## 👨‍💻 من أنا؟
 
-أنا مطور واجهات أمامية شغوف بتصميم وبناء مواقع عصرية وسهلة الاستخدام. أحب تحويل الأفكار إلى تجارب رقمية واضحة وجذابة، مع الاهتمام بالتفاصيل والأداء وتجربة المستخدم.
+أنا **Moataz**، مطور واجهات أمامية ومصمم UI/UX أحب بناء مواقع عصرية، سريعة، ومتجاوبة. أستمتع بتحويل الأفكار إلى واجهات واضحة وجذابة تجمع بين التصميم الجميل وتجربة المستخدم الممتازة.
 
-- 💻 أطور واجهات ويب متجاوبة وعصرية
-- 🎨 أهتم بتصميم UI/UX والهوية البصرية
-- 🚀 أستمتع ببناء مشاريع عملية ومبتكرة
-- 📚 أتعلم باستمرار وأطوّر مهاراتي
-- 🤝 أرحب بالتعاون في المشاريع الإبداعية
+```js
+const moataz = {
+  role: "Frontend Developer",
+  focus: ["UI/UX", "Responsive Design", "Clean Code"],
+  currentlyLearning: "Modern Web Development",
+  motto: "Build it beautiful. Make it useful."
+};
+```
 
----
-
-## 🛠️ التقنيات والأدوات
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,figma,git,github&perline=5" alt="Skills" />
-</p>
-
----
-
-## 🚀 بعض مشاريعي
+## 🧰 التقنيات والأدوات
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,figma,git,github&perline=5" alt="Technologies and tools" />
+</div>
 
-| المشروع | الوصف |
-|:---:|:---|
+## 🚀 مشاريعي
+
+| المشروع | نبذة |
+|:--|:--|
 | [**Portfolio**](https://github.com/zozeel019-boop/pro-cv) | موقع شخصي لعرض المهارات والأعمال |
 | [**Store**](https://github.com/zozeel019-boop/store) | واجهة متجر إلكتروني عصرية |
-| [**AI Project**](https://github.com/zozeel019-boop/ai) | مشروع ويب يعتمد على JavaScript |
+| [**AI Project**](https://github.com/zozeel019-boop/ai) | مشروع ويب باستخدام JavaScript |
 | [**CV Website**](https://github.com/zozeel019-boop/cV1) | تصميم سيرة ذاتية باستخدام CSS |
 
+<div align="center">
+  <a href="https://github.com/zozeel019-boop?tab=repositories">
+    <img src="https://img.shields.io/badge/شاهد_كل_المشاريع-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View all projects" />
+  </a>
 </div>
 
-> 💡 يمكنك مشاهدة المزيد من مشاريعي من خلال [صفحة المستودعات](https://github.com/zozeel019-boop?tab=repositories).
-
----
-
-## 📊 إحصائياتي على GitHub
+## 📊 إحصائيات GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zozeel019-boop&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zozeel019-boop&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zozeel019-boop&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zozeel019-boop&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zozeel019-boop&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=zozeel019-boop&theme=tokyonight&hide_border=true&background=0F172A" alt="GitHub streak" />
 </div>
 
----
-
-## 📫 تواصل معي
-
-إذا كان لديك مشروع أو فكرة وتريد تحويلها إلى واجهة جميلة، يمكنك التواصل معي عبر GitHub:
+## 🤝 تواصل معي
 
 <div align="center">
   <a href="https://github.com/zozeel019-boop">
-    <img src="https://img.shields.io/badge/تابعني_على_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-تابعني-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/zozeel019-boop?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-مشاريعي-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zozeel019-boop&style=for-the-badge&color=8B5CF6" alt="Profile views" />
-  <br /><br />
-  <i>شكراً لزيارتك ⭐ لا تنسَ استكشاف مشاريعي!</i>
+  <i>شكراً لزيارتك ⭐ إذا أعجبك أحد مشاريعي، لا تنسَ ترك نجمة!</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
 </div>
